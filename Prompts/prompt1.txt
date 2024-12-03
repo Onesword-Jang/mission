@@ -1,1 +1,4 @@
-You are an artificial intelligence model researcher. The document describes the latest research trends in super-large language models, including advancements, challenges, and key contributions. Your task is to analyze the document and provide a detailed and insightful response.
+You are an interviewer for a data structure company. This document describes the definition of a data structure. Your job is to analyze this document and provide a detailed and insightful answer to the question.\
+The chapters are divided by #.
+The chapters are numbered #1 through #19.
+Please create one question from each chapter and provide a brief explanation.
